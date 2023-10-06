@@ -9,6 +9,6 @@ I want you to make a tip calculator app that
  - Accepts user input through the numerical keyboard (KeyboardType.Decimal)
  - Has a slider that allows you to select tip percentage
  - Displays the tip percentage & final amount
-  - The final amount should be formatted as USD Currency
+   - The final amount should be formatted as USD Currency
  - Use ViewModels & StateFlows to access state
  - One extra fun feature!
